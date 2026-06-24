@@ -1,11 +1,16 @@
-
-  # User Authentication Flow
-
-  This is a code bundle for User Authentication Flow. The original project is available at https://www.figma.com/design/GpefUMQkXWU1XqGVZ1dEoj/User-Authentication-Flow.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+## Project Overview
+This is a mobile application built for the Coursera Capstone project.
+## Features
+- User Signup with validation
+- User Login with authentication
+- Local storage for saving user data
+- Home screen with app logo
+- Detail screen navigation
+- Smooth navigation between screens
+## Tech Stack
+- React Native / Flutter / Web (write what you used)
+## How to Run
+1. Install dependencies
+2. Run the project using:
+   npm install
+   npm start
